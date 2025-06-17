@@ -1,0 +1,21 @@
+{
+  "name": "Salon CRM",
+  "short_name": "SalonCRM",
+  "start_url": "/saloon-crm/public/",
+  "display": "standalone",
+  "theme_color": "#4A90E2",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/saloon-crm/public/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/saloon-crm/public/images/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
